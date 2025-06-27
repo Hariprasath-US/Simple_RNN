@@ -22,7 +22,7 @@ This notebook includes:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/simple-rnn-model.git
+   git clone https://github.com/Hariprasath-US/simple-rnn-model.git
    cd simple-rnn-model
    ```
 
